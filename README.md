@@ -11,9 +11,9 @@ This program bring you fake hacked popup and shut down your PC.
   - Windows, Linux
 
 ## Usage
-1. Install main libraries.
-2. Adjust images that your like.(Initial images: my lovely dog)
-3. Try it. (Be sure that your PC will shut down)
+1. Install required libraries.
+3. Adjust images that your like.(Initial images: my lovely dog)
+4. Try it. (Be sure that your PC will shut down)
 ```
 python3 prank.py
 ```
