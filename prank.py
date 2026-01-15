@@ -7,7 +7,6 @@ import pyautogui as pag
 scr_w,scr_h= pag.size()
 
 img_maisuu=10
-window_name=0
 for i in range(100):
     frame=cv2.imread(str(i%img_maisuu)+".jpg")
     Xlim=len(frame[0])
