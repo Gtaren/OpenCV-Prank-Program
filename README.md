@@ -2,7 +2,7 @@
 
 This program bring you fake hacked popup and shut down your PC.
 
-##Prerequisites
+## Prerequisites
 
 - Python 3.x
 - Required libraries
@@ -10,7 +10,7 @@ This program bring you fake hacked popup and shut down your PC.
 - usable OS
   - Windows, Linux
 
-##Usage
+## Usage
 1. Install main libraries.
 2. Adjust images that your like.(Initial images: my lovely dog)
 3. Try it. (Be sure that your PC will shut down)
