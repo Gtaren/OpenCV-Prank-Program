@@ -1,6 +1,10 @@
 # OpenCV-Prank-Program
 
+## Overview
+
 This program bring you fake hacked popup and shut down your PC.
+
+I created this repository for learning github system. 
 
 ## Prerequisites
 
